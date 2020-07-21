@@ -10,7 +10,11 @@
     "react": "^16.12.0",
     "react-apple-login": "^1.0.10",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.4.0"
+    "react-mailto": "^0.4.0",
+    "react-native": "^0.62.2",
+    "react-native-mail-launcher": "^1.0.5",
+    "react-scripts": "3.4.0",
+    "reactv16-mailto": "^0.4.4"
   },
   "scripts": {
     "start": "setHTTPS=true SSL_CRT_FILE=server.crt SSL_KEY_FILE=server.key react-scripts start",
