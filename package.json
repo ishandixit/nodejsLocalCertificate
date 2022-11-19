@@ -13,7 +13,7 @@
     "react-mailto": "^0.4.0",
     "react-native": "^0.62.2",
     "react-native-mail-launcher": "^1.0.5",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "reactv16-mailto": "^0.4.4"
   },
   "scripts": {
